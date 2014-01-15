@@ -1,0 +1,4 @@
+altscreen on
+vbell off
+hardstatus alwayslastline
+hardstatus string '%{= kG}[%{G}%H %{g}| %{B}%l %{G}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B}%M %d %c:%s]'
